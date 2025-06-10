@@ -44,9 +44,9 @@ Used in advanced clients (Java applets, Flash, Silverlight) to:
 * **Recompiling/Modifying Behavior**: Modify source, recompile, and inject altered behavior via proxy or standalone execution.
 * **Obfuscation Handling**: Use deobfuscators or rename variables manually via IDE refactoring.
 
----
 
-## 🔍 Hacking Steps Summary
+
+##  Hacking Steps Summary
 
 * Identify client-side validations and hidden controls.
 * Use intercepting proxy to alter:
@@ -70,3 +70,4 @@ Used in advanced clients (Java applets, Flash, Silverlight) to:
 
 ---
 
+# CH7
