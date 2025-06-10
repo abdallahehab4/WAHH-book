@@ -60,11 +60,13 @@ Used in advanced clients (Java applets, Flash, Silverlight) to:
 * Look for inconsistencies between client and server validation.
 * Always test whether the server replicates client-side logic.
 
----
 
-## ⚠️ Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 * Assuming any client-side control is secure.
 * Trusting opaque or "disabled" fields.
 * Relying on headers like Referer for access control.
 * Assuming serialization makes data tamper-proof.
+
+---
+
